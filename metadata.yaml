@@ -1,0 +1,48 @@
+_repo: Life-in-the-Iron-Mills--Or-The-Korl-Woman_876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Rebecca Harding
+    alias: Davis, R. H. (Rebecca Harding)
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '186'
+    url: http://www.gutenberg.org/2009/agents/186
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Harding_Davis
+description: "Life in the Iron Mills is a short story (or novella) written by Rebecca\
+  \ Harding Davis in 1861, set in the factory world of the nineteenth century. It\
+  \ is one of the earliest American realist works, and is an important text for those\
+  \ who study labor and women's issues. It was immediately recognized as an innovative\
+  \ work, and introduced American readers to \"the bleak lives of industrial workers\
+  \ in the mills and factories of the nation.\"\nLife in the Iron Mills was initially\
+  \ published in The Atlantic Monthly, Vol. 0007, Issue 42 in April 1861. After being\
+  \ published anonymously, both Emily Dickinson and Nathaniel Hawthorne praised the\
+  \ work. Elizabeth Stuart Phelps Ward was also greatly influenced by Davis's Life\
+  \ in the Iron Mills and in 1868 published in The Atlantic Monthly \"The Tenth of\
+  \ January,\" based on the 1860 fire at the Pemberton Mills in Lawrence, Massachusetts.\n\
+  Rebecca Harding Davis was considered one of the nation's first social historians\
+  \ and pioneering literary artists. She wrote to find social change for blacks, women,\
+  \ immigrants, and the working class throughout the Civil War. Throughout her long\
+  \ career, Davis challenged traditional subjects and older styles of writing. Her\
+  \ family lived briefly in Big Springs, Alabama, before moving in 1837 to Wheeling,\
+  \ Virginia (now West Virginia), on the Ohio River. Its iron mills and immigrant\
+  \ populations inspired the setting of Life in the Iron Mills.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '876'
+  wikidata: Q6545189
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminism -- Fiction'
+- !lcsh 'Women iron and steel workers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Life in the Iron-Mills; Or, The Korl Woman
+url: http://www.gutenberg.org/ebooks/876
+wikipedia:
+- https://en.wikipedia.org/wiki/Life_in_the_Iron_Mills
